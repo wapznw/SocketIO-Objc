@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name     = 'SocketIO-ObjC'
-s.version  = 'V1.3'
+s.version  = '1.3'
 s.platform = :ios, '7.0'
 s.summary  = 'socket.io iOS devices.'
 s.homepage = 'https://github.com/louis49/SocketIO-Objc'
