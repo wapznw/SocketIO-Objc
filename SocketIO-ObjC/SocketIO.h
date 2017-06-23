@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <AFNetworking/AFNetworking.h>
 #import "SocketIOTransport.h"
 #import "SocketIOInputStream.h"
 #import "SocketIOOutputStream.h"
