@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name     = 'SocketIO-ObjC'
-    s.version  = '1.3'
+    s.version  = '1.3.1'
     s.license      = { :type => 'BSD' }
     s.platform = :ios, '7.0'
     s.summary  = 'socket.io iOS devices.'
